@@ -42,7 +42,7 @@ For more detail please refer to the [Getting Started](https://github.com/TonicAr
 ## Samples
 Included in the repository.
 
-[![Example App](https://4.bp.blogspot.com/-ep46JKpGa84/VJhX1plWWCI/AAAAAAAAXZY/9A1ArrV3a3k/s1600/SuperSLiM-Demo-small.gif)](https://github.com/TonicArtos/SuperSLiM/tree/master/example)
+[![Example App](https://raw.githubusercontent.com/TonicArtos/SuperSLiM/pretty_screencap/example/screencaps/SuperSLiM-demo-small.gif)](https://github.com/TonicArtos/SuperSLiM/tree/master/example)
 
 ## Acknowledgements
 Thanks to Dave Smith for his introduction to writing a RecyclerView LayoutManager over at [Wires are Obsolete](http://wiresareobsolete.com/), and to Lucas Rocha for his [TwoWayView Library](http://github.com/lucasr/twoway-view/) which is worth checking out too.
